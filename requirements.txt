@@ -1,2 +1,2 @@
-selene
-pytest
+zipfile
+pytest==8.3.5
